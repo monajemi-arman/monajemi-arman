@@ -4,6 +4,17 @@ Welcome to my GitHub!
 I'm a developer with a unique journey — starting from early tinkering with code and Linux, moving through pharmacy, and circling back to my first love: **computers, open source, and building things that matter**.  
 
 ---
+## 🚀 Featured Projects
+
+| AI / Deep Learning | PyTorch | WebApp Spark |
+|---------|---------------|-------|
+| [![breast_cancer_detection](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=breast_cancer_detection&theme=radical)](https://github.com/monajemi-arman/breast_cancer_detection) | [![dental-canal-cbct](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=dental-canal-cbct&theme=radical)](https://github.com/monajemi-arman/dental-canal-cbct) | [![sparkling](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=sparkling&theme=radical)](https://github.com/monajemi-arman/sparkling) |
+
+| FaaS | Bot / Scripts | Utilities |
+|------|---------------|-----------|
+| [![MangoFaaS](https://github-readme-stats.vercel.app/api/pin/?username=aarani&repo=MangoFaaS&theme=radical)](https://github.com/aarani/MangoFaaS) | [![zmb2](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=zmb2&theme=radical)](https://github.com/monajemi-arman/zmb2) | [![object-detection-utils](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=object-detection-utils&theme=radical)](https://github.com/monajemi-arman/object-detection-utils) |
+
+---
 
 ## 💻 What I Do
 - **Full-Stack Development**: Currently working with **Next.js, React, and TypeScript** to build modern, performant applications.  
