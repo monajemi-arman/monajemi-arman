@@ -10,9 +10,9 @@ Developer with a journey from early coding and Linux tinkering, through pharmacy
 |-------------------|---------|-------------|
 | [![breast_cancer_detection](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=breast_cancer_detection&theme=radical)](https://github.com/monajemi-arman/breast_cancer_detection) | [![dental-canal-cbct](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=dental-canal-cbct&theme=radical)](https://github.com/monajemi-arman/dental-canal-cbct) | [![sparkling](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=sparkling&theme=radical)](https://github.com/monajemi-arman/sparkling) |
 
-| FaaS | Bot / Scripts | Utilities |
+| Lab Management | Bot / Scripts | Utilities |
 |------|---------------|-----------|
-| [![MangoFaaS](https://github-readme-stats.vercel.app/api/pin/?username=aarani&repo=MangoFaaS&theme=radical)](https://github.com/aarani/MangoFaaS) | [![zmb2](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=zmb2&theme=radical)](https://github.com/monajemi-arman/zmb2) | [![object-detection-utils](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=object-detection-utils&theme=radical)](https://github.com/monajemi-arman/object-detection-utils) |
+| [![computer-lab-manager](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=computer-lab-manager&theme=radical)](https://github.com/aarani/MangoFaaS) | [![zmb2](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=zmb2&theme=radical)](https://github.com/monajemi-arman/zmb2) | [![object-detection-utils](https://github-readme-stats.vercel.app/api/pin/?username=monajemi-arman&repo=object-detection-utils&theme=radical)](https://github.com/monajemi-arman/object-detection-utils) |
 
 ---
 
