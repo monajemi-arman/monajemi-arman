@@ -1,7 +1,7 @@
 # Arman Monajemi
 
 ## Projects
-- **AI / Deep Learning Backend Services**: Breast cancer detection suite in Python, currently in use at **Imam Hospital, Mashhad**.  
+- **AI Backend Services**: Breast cancer screening and labelling for **Imam Hospital, Mashhad**.  
 - **Rust**
   - Microservice for building ext4 images on s3 compatible storage
   - CheTauri AI chatbot with Tauri framework (Rust + JS)
@@ -12,12 +12,10 @@
 ---
 
 ## Skills
-- **Linux**: 10+ years behind the command line, tweaking systems and running servers
-- **Network and Security**: Hands-on knowledge of cybersecurity fundamentals
 - Main programming languages: **Rust**, **Typescript / Javascript**, **Python**
-- Backend JS intern at **Part Software Company**
-- Early projects in **Perl**  and **PHP**
-- 
+- **Linux**: 10+ years behind the command line, tweaking systems and running servers
+- **Security**: Hands-on knowledge of cybersecurity fundamentals
+
 ---
 
 ## Contact me
